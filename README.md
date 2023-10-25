@@ -1,6 +1,5 @@
 - 👋 Hi, I’m wangplin
 - 👀 I’m interested in Computer Architecture, NOC, Chiplet
-- 💞️ I’m looking to collaborate on someone with passion
 - 📫 My e-mail is wangplin@mail2.sysu.edu.cn
 - 😃 I'm studying in SYSU MST.
 <!---
