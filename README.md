@@ -6,14 +6,5 @@ I'm **Peilin Wang**, a first-year master's student at the **School of Microelect
 
 ---
 
-### 📫 Get in touch
-
-- Email: [wangplin@mial2.sysu.edu.cn](mailto:wangplin@mial2.sysu.edu.cn)
-
----
-
-
-[![](https://github-readme-stats-beta-sable-48.vercel.app/api/top-langs/?username=wangplin&layout=compact&hide=javascript,html,c,css,scss,typescript,xml)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![](https://github-readme-stats-beta-sable-48.vercel.app/api?username=wangplin&count_private=true&show_icons=true&theme=transparent)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
