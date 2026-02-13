@@ -7,7 +7,7 @@ I'm **Peilin Wang**, a second-year master's student at the **School of Microelec
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-782%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-782%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue?style=flat)
 
@@ -65,5 +65,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2026 19:33:37 UTC
+ Last Updated on 13/02/2026 19:14:22 UTC
 <!--END_SECTION:waka-->
