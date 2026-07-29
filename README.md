@@ -7,6 +7,10 @@ I'm **Peilin Wang**, a second-year master's student at the **School of Microelec
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C479%20hrs%2031%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-682%20hrs%2050%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -36,42 +40,42 @@ Sunday                   379 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-V                        18 hrs 5 mins       ████████████░░░░░░░░░░░░░   46.13 % 
-SystemVerilog            12 hrs 19 mins      ████████░░░░░░░░░░░░░░░░░   31.42 % 
-Markdown                 3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-Other                    1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Tcl                      1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+V                        20 hrs 22 mins      ██████████░░░░░░░░░░░░░░░   41.87 % 
+SystemVerilog            14 hrs 38 mins      ████████░░░░░░░░░░░░░░░░░   30.08 % 
+Markdown                 7 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Other                    1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Tcl                      1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 
 🔥 Editors: 
-Codex CLI                22 hrs 13 mins      ██████████████░░░░░░░░░░░   56.70 % 
-VS Code                  16 hrs 58 mins      ███████████░░░░░░░░░░░░░░   43.30 % 
+Codex CLI                27 hrs 25 mins      ██████████████░░░░░░░░░░░   56.36 % 
+VS Code                  21 hrs 14 mins      ███████████░░░░░░░░░░░░░░   43.64 % 
 
 💻 Operating System: 
-Linux                    37 hrs 15 mins      ████████████████████████░   95.01 % 
-Windows                  1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Linux                    46 hrs 36 mins      ████████████████████████░   95.77 % 
+Windows                  2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 hrs 47 mins (91.29%)
+⏱ AI Coding Time: 44 hrs 54 mins (92.29%)
 
-✍️ 15,542 lines written by AI, 372 lines written by hand (97.66% AI-written)
+✍️ 20,671 lines written by AI, 411 lines written by hand (98.05% AI-written)
 
-🔤 666,443,715 Input Tokens, 2,550,374 Output Tokens
+🔤 784,096,730 Input Tokens, 3,004,134 Output Tokens
 
-💵 $3406.45 Estimated AI Cost This Week
+💵 $4008.33 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 367 AI Prompts
+🧠 30 AI Sessions, 474 AI Prompts
 
-GPT                      18,951 lines        █████████████████████████   100.00 % 
+GPT                      25,349 lines        █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.66% of written lines came from AI
-📝 Concise Prompter — average 116 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 2.29% of changed lines were hand-edited
+🤖 AI-Driven — 98.05% of written lines came from AI
+📝 Concise Prompter — average 109 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 1.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -87,5 +91,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 20:01:00 UTC
+ Last Updated on 29/07/2026 19:52:15 UTC
 <!--END_SECTION:waka-->
