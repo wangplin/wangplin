@@ -7,30 +7,30 @@ I'm **Peilin Wang**, a second-year master's student at the **School of Microelec
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C516%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C528%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-724%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-735%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1071 commits        ████████░░░░░░░░░░░░░░░░░   30.23 % 
-🌆 Daytime                1056 commits        ███████░░░░░░░░░░░░░░░░░░   29.81 % 
-🌃 Evening                1281 commits        █████████░░░░░░░░░░░░░░░░   36.16 % 
-🌙 Night                  135 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+🌞 Morning                1078 commits        ████████░░░░░░░░░░░░░░░░░   30.18 % 
+🌆 Daytime                1069 commits        ███████░░░░░░░░░░░░░░░░░░   29.93 % 
+🌃 Evening                1289 commits        █████████░░░░░░░░░░░░░░░░   36.09 % 
+🌙 Night                  136 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   531 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Tuesday                  492 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Wednesday                691 commits         █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-Thursday                 541 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Friday                   526 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Saturday                 383 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Sunday                   379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Monday                   534 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Tuesday                  496 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Wednesday                692 commits         █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+Thursday                 544 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Friday                   532 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Saturday                 389 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Sunday                   385 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
 ```
 
 
@@ -40,58 +40,58 @@ Sunday                   379 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      15 hrs 40 mins      ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-Markdown                 12 hrs 54 mins      █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
-V                        10 hrs 55 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-SystemVerilog            8 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Other                    7 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+C++                      14 hrs 53 mins      ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+Markdown                 13 hrs 55 mins      ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
+Python                   6 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Other                    6 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+SystemVerilog            5 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
 
 🔥 Editors: 
-Codex CLI                42 hrs 40 mins      ████████████████░░░░░░░░░   62.19 % 
-VS Code                  25 hrs 56 mins      █████████░░░░░░░░░░░░░░░░   37.80 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Codex CLI                35 hrs 33 mins      ███████████████░░░░░░░░░░   61.74 % 
+VS Code                  21 hrs 58 mins      ██████████░░░░░░░░░░░░░░░   38.16 % 
+Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Linux                    67 hrs 7 mins       ████████████████████████░   97.83 % 
-Windows                  1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Linux                    54 hrs 52 mins      ████████████████████████░   95.28 % 
+Windows                  2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 65 hrs 23 mins (95.31%)
+⏱ AI Coding Time: 53 hrs 26 mins (92.78%)
 
-✍️ 31,038 lines written by AI, 449 lines written by hand (98.57% AI-written)
+✍️ 24,999 lines written by AI, 1,127 lines written by hand (95.69% AI-written)
 
-🔤 21,970,687,208 Input Tokens, 66,886,561 Output Tokens
+🔤 21,448,575,921 Input Tokens, 65,039,076 Output Tokens
 
-💵 $49840.38 Estimated AI Cost This Week
+💵 $47171.46 Estimated AI Cost This Week
 
-🧠 153 AI Sessions, 694 AI Prompts
+🧠 154 AI Sessions, 593 AI Prompts
 
-GPT                      35,331 lines        █████████████████████████   100.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      28,224 lines        █████████████████████████   99.95 % 
+Deepseek                 14 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 Claude                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.57% of written lines came from AI
-📄 Detailed Prompter — average 1,028 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.45% of changed lines were hand-edited
+🤖 AI-Driven — 95.69% of written lines came from AI
+📄 Detailed Prompter — average 1,204 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 4.11% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      18 repos            █████████████░░░░░░░░░░░░   51.43 % 
-Python                   7 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Verilog                  4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-TeX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+C++                      19 repos            █████████████░░░░░░░░░░░░   52.78 % 
+Python                   7 repos             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Verilog                  4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+TeX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
 
 
- Last Updated on 04/08/2026 04:55:06 UTC
+ Last Updated on 04/08/2026 20:08:58 UTC
 <!--END_SECTION:waka-->
