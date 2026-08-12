@@ -7,9 +7,9 @@ I'm **Peilin Wang**, a second-year master's student at the **School of Microelec
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C549%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C557%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-747%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-755%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
@@ -40,44 +40,42 @@ Sunday                   421 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      9 hrs 47 mins       ███████████░░░░░░░░░░░░░░   45.98 % 
-Markdown                 7 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   34.98 % 
-SystemVerilog            1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Python                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-V                        37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+C++                      18 hrs 3 mins       █████████████████░░░░░░░░   67.98 % 
+Markdown                 5 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+SystemVerilog            1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Python                   1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 20 mins      ██████████████████░░░░░░░   72.01 % 
-Codex CLI                5 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   27.77 % 
-Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+VS Code                  16 hrs 27 mins      ███████████████░░░░░░░░░░   61.91 % 
+Codex CLI                10 hrs 7 mins       ██████████░░░░░░░░░░░░░░░   38.09 % 
 
 💻 Operating System: 
-Linux                    15 hrs 18 mins      ██████████████████░░░░░░░   71.86 % 
-Windows                  5 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   28.14 % 
+Linux                    26 hrs 21 mins      █████████████████████████   99.17 % 
+Windows                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 1 min (61.17%)
+⏱ AI Coding Time: 22 hrs 18 mins (83.94%)
 
-✍️ 2,104 lines written by AI, 1,345 lines written by hand (61.0% AI-written)
+✍️ 3,282 lines written by AI, 442 lines written by hand (88.13% AI-written)
 
-🔤 167,210,318 Input Tokens, 749,813 Output Tokens
+🔤 230,776,011 Input Tokens, 1,332,617 Output Tokens
 
-💵 $857.91 Estimated AI Cost This Week
+💵 $1209.29 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 216 AI Prompts
+🧠 10 AI Sessions, 397 AI Prompts
 
-GPT                      2,474 lines         █████████████████████████   99.44 % 
-Deepseek                 14 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-Claude                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      4,079 lines         █████████████████████████   100.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 61.0% of written lines came from AI
-📝 Concise Prompter — average 245 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 37.71% of changed lines were hand-edited
+🤖 AI-Driven — 88.13% of written lines came from AI
+📝 Concise Prompter — average 205 characters per prompt
+🔁 Iterative Prompter — average 40 prompts per session
+🚀 High AI Trust — 15.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -93,5 +91,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 19:33:48 UTC
+ Last Updated on 12/08/2026 19:36:22 UTC
 <!--END_SECTION:waka-->
