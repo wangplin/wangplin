@@ -7,30 +7,30 @@ I'm **Peilin Wang**, a second-year master's student at the **School of Microelec
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C564%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C565%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-761%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-761%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1106 commits        ████████░░░░░░░░░░░░░░░░░   30.14 % 
-🌆 Daytime                1124 commits        ████████░░░░░░░░░░░░░░░░░   30.64 % 
-🌃 Evening                1303 commits        █████████░░░░░░░░░░░░░░░░   35.51 % 
-🌙 Night                  136 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+🌞 Morning                1108 commits        ████████░░░░░░░░░░░░░░░░░   30.15 % 
+🌆 Daytime                1124 commits        ████████░░░░░░░░░░░░░░░░░   30.59 % 
+🌃 Evening                1307 commits        █████████░░░░░░░░░░░░░░░░   35.56 % 
+🌙 Night                  136 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   549 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Tuesday                  516 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Wednesday                692 commits         █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-Thursday                 546 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Friday                   543 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Saturday                 402 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Sunday                   421 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Monday                   549 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Tuesday                  517 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Wednesday                697 commits         █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+Thursday                 546 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Friday                   543 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Saturday                 402 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Sunday                   421 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
 ```
 
 
@@ -40,13 +40,16 @@ Sunday                   421 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 mins              █████████████████████████   100.00 % 
+TeX                      36 mins             ███████████████████████░░   90.40 % 
+Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+Claude Code              36 mins             ███████████████████████░░   90.40 % 
+VS Code                  3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+WSL                      36 mins             ███████████████████████░░   90.40 % 
+Windows                  3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -68,5 +71,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 19:10:58 UTC
+ Last Updated on 25/08/2026 19:08:41 UTC
 <!--END_SECTION:waka-->
