@@ -7,9 +7,9 @@ I'm **Peilin Wang**, a second-year master's student at the **School of Microelec
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C585%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C586%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-780%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-782%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -40,44 +40,44 @@ Sunday                   501 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      9 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   39.48 % 
-Markdown                 5 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-Other                    2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-TeX                      1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Bash                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+C++                      13 hrs 50 mins      ████████████░░░░░░░░░░░░░   47.87 % 
+Markdown                 5 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+Other                    2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Bash                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+TeX                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 55 mins      ████████████░░░░░░░░░░░░░   47.33 % 
-Codex CLI                10 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   39.87 % 
-Claude Code              3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+VS Code                  15 hrs 30 mins      █████████████░░░░░░░░░░░░   53.61 % 
+Codex CLI                10 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   37.36 % 
+Claude Code              2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
 
 💻 Operating System: 
-Linux                    19 hrs 36 mins      ███████████████████░░░░░░   77.88 % 
-WSL                      3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Windows                  2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Linux                    23 hrs 33 mins      ████████████████████░░░░░   81.48 % 
+Windows                  2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+WSL                      2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 17 mins (84.53%)
+⏱ AI Coding Time: 23 hrs 19 mins (80.65%)
 
-✍️ 6,344 lines written by AI, 3,520 lines written by hand (64.31% AI-written)
+✍️ 6,376 lines written by AI, 3,555 lines written by hand (64.2% AI-written)
 
-🔤 62,383,439 Input Tokens, 1,048,383 Output Tokens
+🔤 73,266,572 Input Tokens, 1,133,688 Output Tokens
 
-💵 $296.50 Estimated AI Cost This Week
+💵 $342.72 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 528 AI Prompts
+🧠 33 AI Sessions, 609 AI Prompts
 
-GPT                      7,136 lines         ████████████████████████░   96.76 % 
-Claude                   239 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+GPT                      7,177 lines         ████████████████████████░   96.78 % 
+Claude                   239 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 64.31% of written lines came from AI
-📝 Concise Prompter — average 395 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🔍 Hands-On Reviewer — 60.28% of changed lines were hand-edited
+⚖️ Balanced with AI — 64.2% of written lines came from AI
+📝 Concise Prompter — average 358 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🔍 Hands-On Reviewer — 60.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -93,5 +93,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2026 21:20:27 UTC
+ Last Updated on 31/08/2026 22:59:08 UTC
 <!--END_SECTION:waka-->
