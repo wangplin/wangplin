@@ -56,28 +56,6 @@ Linux                    21 hrs 58 mins      ███████████�
 Windows                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 20 hrs 3 mins (90.48%)
-
-✍️ 5,671 lines written by AI, 141 lines written by hand (97.57% AI-written)
-
-🔤 991,243,424 Input Tokens, 6,026,777 Output Tokens
-
-💵 $9793.60 Estimated AI Cost This Week
-
-🧠 21 AI Sessions, 309 AI Prompts
-
-GPT                      5,741 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 97.57% of written lines came from AI
-📄 Detailed Prompter — average 648 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 6.5% of changed lines were hand-edited
-```
-
 **I Mostly Code in C++** 
 
 ```text
