@@ -7,9 +7,9 @@ I'm **Peilin Wang**, a second-year master's student at the **School of Microelec
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C661%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C662%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-850%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-851%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue?style=flat)
 
@@ -40,18 +40,19 @@ Sunday                   501 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      18 hrs 7 mins       ████████████░░░░░░░░░░░░░   49.20 % 
-Markdown                 9 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-SystemVerilog            5 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Tcl                      2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-Python                   1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+C++                      16 hrs 52 mins      ███████████████░░░░░░░░░░   59.71 % 
+Markdown                 4 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+SystemVerilog            3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Tcl                      1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Python                   58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 57 mins      █████████████░░░░░░░░░░░░   51.49 % 
-Codex CLI                17 hrs 52 mins      ████████████░░░░░░░░░░░░░   48.51 % 
+VS Code                  16 hrs 44 mins      ███████████████░░░░░░░░░░   59.26 % 
+Codex CLI                11 hrs 24 mins      ██████████░░░░░░░░░░░░░░░   40.38 % 
+Claude Code              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Linux                    36 hrs 49 mins      █████████████████████████   100.00 % 
+Linux                    28 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -67,5 +68,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 21:31:37 UTC
+ Last Updated on 17/09/2026 21:36:14 UTC
 <!--END_SECTION:waka-->
