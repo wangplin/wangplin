@@ -40,19 +40,19 @@ Sunday                   501 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      12 hrs 10 mins      ██████████████░░░░░░░░░░░   55.21 % 
-Markdown                 3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-SystemVerilog            2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Python                   2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Tcl                      1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+C++                      13 hrs 57 mins      ██████████████████░░░░░░░   70.68 % 
+Markdown                 2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Python                   1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Tcl                      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+SystemVerilog            26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 24 mins      ████████████████░░░░░░░░░   65.33 % 
-Codex CLI                7 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   33.30 % 
-Claude Code              18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+VS Code                  14 hrs 2 mins       ██████████████████░░░░░░░   71.16 % 
+Codex CLI                5 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   27.31 % 
+Claude Code              18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 💻 Operating System: 
-Linux                    22 hrs 2 mins       █████████████████████████   100.00 % 
+Linux                    19 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -68,5 +68,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 20:54:50 UTC
+ Last Updated on 20/09/2026 20:59:59 UTC
 <!--END_SECTION:waka-->
