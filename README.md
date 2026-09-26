@@ -40,19 +40,19 @@ Sunday                   501 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      19 hrs 43 mins      █████████████████████░░░░   82.64 % 
-Markdown                 3 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Other                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-tmux                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+C++                      21 hrs 4 mins       █████████████████████░░░░   82.69 % 
+Markdown                 3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Other                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+tmux                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 39 mins      ████████████████████░░░░░   80.90 % 
-Codex CLI                4 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+VS Code                  20 hrs 55 mins      ████████████████████░░░░░   80.75 % 
+Codex CLI                4 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
 
 💻 Operating System: 
-Linux                    23 hrs 44 mins      █████████████████████████   99.70 % 
-Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Linux                    25 hrs 21 mins      █████████████████████████   99.72 % 
+Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
 
 **I Mostly Code in C++** 
@@ -68,5 +68,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 21:46:49 UTC
+ Last Updated on 26/09/2026 21:22:46 UTC
 <!--END_SECTION:waka-->
