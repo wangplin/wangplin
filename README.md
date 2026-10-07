@@ -40,20 +40,20 @@ Sunday                   585 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      29 hrs 11 mins      ████████████████████░░░░░   80.52 % 
-Markdown                 2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Other                    1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-SystemVerilog            1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-Python                   31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+C++                      31 hrs 14 mins      ████████████████████░░░░░   81.26 % 
+Markdown                 3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Other                    1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+SystemVerilog            1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Python                   36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🔥 Editors: 
-Codex Vscode             14 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   41.28 % 
-VS Code                  11 hrs 37 mins      ████████░░░░░░░░░░░░░░░░░   32.07 % 
-Codex CLI                9 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+Codex Vscode             19 hrs 4 mins       ████████████░░░░░░░░░░░░░   49.62 % 
+VS Code                  12 hrs 21 mins      ████████░░░░░░░░░░░░░░░░░   32.12 % 
+Codex CLI                7 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
 
 💻 Operating System: 
-Linux                    36 hrs 7 mins       █████████████████████████   99.63 % 
-Windows                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Linux                    38 hrs 19 mins      █████████████████████████   99.65 % 
+Windows                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 
 **I Mostly Code in C++** 
@@ -69,5 +69,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 22:45:30 UTC
+ Last Updated on 07/10/2026 23:15:54 UTC
 <!--END_SECTION:waka-->
