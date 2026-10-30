@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm **Peilin Wang**, a second-year master's student at the **School of Microelectronics Science and Techonology , Sun Yat-Sen University**. My research focuses on **chiplet-based architecture, on-chip/package network and multi-chip GPU**.
+I'm **Peilin Wang**, a third-year master's student at the **School of Microelectronics Science and Technology, Sun Yat-sen University**. My research focuses on **chiplet-based architectures, on-chip/package network, and multi-chiplet GPUs**.
 
-- 🎓 Earned my B.Eng. in Microelectronics Science and Engineering from **Sun Yat-Sen University (SYSU)** in 2024.
+- 🎓 Earned my B.Eng. in Microelectronics Science and Engineering from **Sun Yat-sen University (SYSU)** in 2024.
 
 ---
 
