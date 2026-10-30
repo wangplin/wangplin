@@ -40,23 +40,23 @@ Sunday                   959 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      18 hrs 50 mins      ███████████░░░░░░░░░░░░░░   45.70 % 
-Python                   6 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Markdown                 5 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Other                    5 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-GDB                      58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+C++                      18 hrs 5 mins       █████████████░░░░░░░░░░░░   50.96 % 
+Markdown                 6 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+Other                    3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Python                   2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+GDB                      58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 🔥 Editors: 
-Codex Vscode             30 hrs 6 mins       ██████████████████░░░░░░░   73.06 % 
-VS Code                  8 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Codex CLI                2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Codex Vscode             25 hrs 4 mins       ██████████████████░░░░░░░   70.62 % 
+VS Code                  7 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+Codex CLI                2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 Codex Exec               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    40 hrs 11 mins      ████████████████████████░   97.51 % 
-WSL                      48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-Windows                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Linux                    34 hrs 29 mins      ████████████████████████░   97.11 % 
+WSL                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Windows                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
 
 **I Mostly Code in C++** 
@@ -72,5 +72,5 @@ Tcl                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 09:25:37 UTC
+ Last Updated on 30/10/2026 22:35:02 UTC
 <!--END_SECTION:waka-->
