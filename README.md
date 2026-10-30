@@ -7,30 +7,30 @@ I'm **Peilin Wang**, a second-year master's student at the **School of Microelec
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C847%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C853%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C023%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C030%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1791 commits        ████████░░░░░░░░░░░░░░░░░   31.99 % 
-🌆 Daytime                1850 commits        ████████░░░░░░░░░░░░░░░░░   33.04 % 
-🌃 Evening                1822 commits        ████████░░░░░░░░░░░░░░░░░   32.54 % 
-🌙 Night                  136 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+🌞 Morning                2431 commits        ████████░░░░░░░░░░░░░░░░░   33.61 % 
+🌆 Daytime                2441 commits        ████████░░░░░░░░░░░░░░░░░   33.75 % 
+🌃 Evening                2224 commits        ████████░░░░░░░░░░░░░░░░░   30.75 % 
+🌙 Night                  136 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   832 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Tuesday                  884 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Wednesday                968 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Thursday                 702 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Friday                   864 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Saturday                 604 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Sunday                   745 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Monday                   1221 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Tuesday                  1172 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Wednesday                1243 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Thursday                 916 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Friday                   1033 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Saturday                 688 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Sunday                   959 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
 ```
 
 
@@ -62,15 +62,15 @@ Windows                  12 mins             ░░░░░░░░░░░�
 **I Mostly Code in C++** 
 
 ```text
-C++                      18 repos            ████████████░░░░░░░░░░░░░   48.65 % 
-Python                   8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-Verilog                  4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-TeX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Tcl                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+C++                      19 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+Python                   8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Verilog                  4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+TeX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Tcl                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
 
 
- Last Updated on 29/10/2026 22:56:22 UTC
+ Last Updated on 30/10/2026 09:11:06 UTC
 <!--END_SECTION:waka-->
