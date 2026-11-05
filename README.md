@@ -7,9 +7,9 @@ I'm **Peilin Wang**, a third-year master's student at the **School of Microelect
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C865%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C870%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C047%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C054%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
 
@@ -18,7 +18,7 @@ I'm **Peilin Wang**, a third-year master's student at the **School of Microelect
 ```text
 🌞 Morning                2431 commits        ████████░░░░░░░░░░░░░░░░░   33.61 % 
 🌆 Daytime                2442 commits        ████████░░░░░░░░░░░░░░░░░   33.76 % 
-🌃 Evening                2224 commits        ████████░░░░░░░░░░░░░░░░░   30.75 % 
+🌃 Evening                2225 commits        ████████░░░░░░░░░░░░░░░░░   30.76 % 
 🌙 Night                  136 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -26,9 +26,9 @@ I'm **Peilin Wang**, a third-year master's student at the **School of Microelect
 ```text
 Monday                   1221 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
 Tuesday                  1172 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Wednesday                1243 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Thursday                 916 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Friday                   1034 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Wednesday                1243 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Thursday                 917 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Friday                   1034 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 Saturday                 688 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
 Sunday                   959 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
 ```
@@ -40,21 +40,21 @@ Sunday                   959 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      12 hrs 44 mins      █████████░░░░░░░░░░░░░░░░   36.77 % 
-Other                    7 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-Markdown                 6 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-Python                   2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-Text                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Other                    9 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+Markdown                 8 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   26.86 % 
+C++                      8 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+Python                   2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🔥 Editors: 
-Codex Vscode             25 hrs 18 mins      ██████████████████░░░░░░░   73.03 % 
-VS Code                  5 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Codex CLI                3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Codex Exec               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Codex Vscode             25 hrs 37 mins      ████████████████████░░░░░   78.79 % 
+Codex CLI                3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+VS Code                  3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Codex Exec               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Linux                    34 hrs 36 mins      █████████████████████████   99.87 % 
-Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Linux                    32 hrs 23 mins      █████████████████████████   99.55 % 
+Windows                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 
 **I Mostly Code in C++** 
@@ -70,5 +70,5 @@ Tcl                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/11/2026 23:53:11 UTC
+ Last Updated on 05/11/2026 23:48:24 UTC
 <!--END_SECTION:waka-->
