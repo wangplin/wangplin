@@ -7,9 +7,9 @@ I'm **Peilin Wang**, a third-year master's student at the **School of Microelect
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C924%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C925%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C109%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C109%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -40,21 +40,21 @@ Sunday                   958 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 15 hrs 21 mins      █████████░░░░░░░░░░░░░░░░   35.67 % 
-Python                   12 hrs 23 mins      ███████░░░░░░░░░░░░░░░░░░   28.80 % 
-C++                      6 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Makefile                 3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Other                    2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Markdown                 13 hrs 33 mins      ████████░░░░░░░░░░░░░░░░░   32.88 % 
+Python                   12 hrs 23 mins      ████████░░░░░░░░░░░░░░░░░   30.06 % 
+C++                      6 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Makefile                 3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Other                    2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 
 🔥 Editors: 
-Codex Vscode             38 hrs 46 mins      ███████████████████████░░   90.08 % 
-Codex CLI                2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-VS Code                  1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Claude Code              18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Codex Vscode             38 hrs 46 mins      ████████████████████████░   94.01 % 
+Codex CLI                2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Claude Code              18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Linux                    41 hrs 6 mins       ████████████████████████░   95.48 % 
-Windows                  1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Linux                    41 hrs 6 mins       █████████████████████████   99.64 % 
+Windows                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 
 **I Mostly Code in C++** 
@@ -70,5 +70,5 @@ Tcl                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2026 23:05:19 UTC
+ Last Updated on 17/11/2026 01:59:37 UTC
 <!--END_SECTION:waka-->
