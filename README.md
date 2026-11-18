@@ -16,8 +16,8 @@ I'm **Peilin Wang**, a third-year master's student at the **School of Microelect
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2435 commits        ████████░░░░░░░░░░░░░░░░░   33.61 % 
-🌆 Daytime                2448 commits        ████████░░░░░░░░░░░░░░░░░   33.79 % 
+🌞 Morning                2435 commits        ████████░░░░░░░░░░░░░░░░░   33.60 % 
+🌆 Daytime                2449 commits        ████████░░░░░░░░░░░░░░░░░   33.80 % 
 🌃 Evening                2226 commits        ████████░░░░░░░░░░░░░░░░░   30.72 % 
 🌙 Night                  136 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 ```
@@ -25,11 +25,11 @@ I'm **Peilin Wang**, a third-year master's student at the **School of Microelect
 
 ```text
 Monday                   1221 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Tuesday                  1172 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Tuesday                  1173 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
 Wednesday                1253 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
 Thursday                 919 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
 Friday                   1034 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Saturday                 688 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Saturday                 688 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
 Sunday                   958 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
 ```
 
@@ -40,35 +40,35 @@ Sunday                   958 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 13 hrs 33 mins      ████████░░░░░░░░░░░░░░░░░   32.88 % 
-Python                   12 hrs 23 mins      ████████░░░░░░░░░░░░░░░░░   30.06 % 
-C++                      6 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Makefile                 3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-Other                    2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Markdown                 13 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   33.43 % 
+Python                   11 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   29.24 % 
+C++                      6 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Makefile                 3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Other                    2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 
 🔥 Editors: 
-Codex Vscode             38 hrs 46 mins      ████████████████████████░   94.01 % 
-Codex CLI                2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Claude Code              18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Codex Vscode             37 hrs 48 mins      ███████████████████████░░   93.95 % 
+Codex CLI                1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Claude Code              18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Linux                    41 hrs 6 mins       █████████████████████████   99.64 % 
-Windows                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Linux                    40 hrs 5 mins       █████████████████████████   99.63 % 
+Windows                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      19 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-Python                   7 repos             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Verilog                  4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Tcl                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+C++                      19 repos            ████████████░░░░░░░░░░░░░   47.50 % 
+Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Tcl                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 
 
 
- Last Updated on 17/11/2026 01:59:37 UTC
+ Last Updated on 18/11/2026 01:08:27 UTC
 <!--END_SECTION:waka-->
