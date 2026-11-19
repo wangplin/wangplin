@@ -40,21 +40,21 @@ Sunday                   958 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 13 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   33.43 % 
-Python                   11 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   29.24 % 
-C++                      6 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Makefile                 3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Other                    2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Markdown                 10 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   32.83 % 
+Python                   10 hrs 22 mins      ████████░░░░░░░░░░░░░░░░░   32.34 % 
+C++                      4 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Makefile                 2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Other                    1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 
 🔥 Editors: 
-Codex Vscode             37 hrs 48 mins      ███████████████████████░░   93.95 % 
-Codex CLI                1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Claude Code              18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Codex Vscode             30 hrs 20 mins      ████████████████████████░   94.60 % 
+Codex CLI                1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Claude Code              18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    40 hrs 5 mins       █████████████████████████   99.63 % 
-Windows                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Linux                    32 hrs 4 mins       █████████████████████████   100.00 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -70,5 +70,5 @@ Tcl                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2026 01:08:27 UTC
+ Last Updated on 19/11/2026 00:40:11 UTC
 <!--END_SECTION:waka-->
