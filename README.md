@@ -40,20 +40,19 @@ Sunday                   958 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 10 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   32.83 % 
-Python                   10 hrs 22 mins      ████████░░░░░░░░░░░░░░░░░   32.34 % 
-C++                      4 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Makefile                 2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-Other                    1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Python                   8 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   29.48 % 
+Markdown                 6 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
+Other                    4 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+C++                      4 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Makefile                 2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
 
 🔥 Editors: 
-Codex Vscode             30 hrs 20 mins      ████████████████████████░   94.60 % 
-Codex CLI                1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-Claude Code              18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Codex Vscode             27 hrs 9 mins       █████████████████████████   99.74 % 
+Codex CLI                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    32 hrs 4 mins       █████████████████████████   100.00 % 
+Linux                    27 hrs 14 mins      █████████████████████████   100.00 % 
 Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -70,5 +69,5 @@ Tcl                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/11/2026 00:40:11 UTC
+ Last Updated on 20/11/2026 00:48:12 UTC
 <!--END_SECTION:waka-->
